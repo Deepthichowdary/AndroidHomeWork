@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list1">
+        <item name="item1">String1</item>
+        <item name="item2">String2</item>
+        <item name="item3">String3</item>
+        <item name="item4">String4</item>
+        <item name="item5">String5</item>
+        <item name="item6">String6</item>
+        <item name="item7">String7</item>
+        <item name="item8">String8</item>
+        <item name="item9">String9</item>
+        <item name="item10">String10</item>
+        <item name="item11">String11</item>
+        <item name="item12">String12</item>
+        <item name="item13">String13</item>
+        <item name="item14">String14</item>
+        <item name="item15">String15</item>
+        <item name="item16">String16</item>
+        <item name="item17">String17</item>
+        <item name="item18">String18</item>
+        <item name="item19">String19</item>
+        <item name="item20">String20</item>
+        <item name="item21">String21</item>
+        <item name="item22">String22</item>
+        <item name="item23">String23</item>
+        <item name="item24">String24</item>
+        <item name="item25">String25</item>
+        <item name="item26">String26</item>
+        <item name="item27">String27</item>
+        <item name="item28">String28</item>
+        <item name="item29">String29</item>
+        <item name="item30">String30</item>
+    </string-array>
+    <string-array name="list2">
+        <item name="item31">String31</item>
+        <item name="item32">String32</item>
+        <item name="item33">String33</item>
+        <item name="item34">String34</item>
+        <item name="item35">String35</item>
+        <item name="item36">String36</item>
+        <item name="item37">String37</item>
+        <item name="item38">String38</item>
+        <item name="item39">String39</item>
+        <item name="item40">String40</item>
+        <item name="item41">String41</item>
+        <item name="item42">String42</item>
+        <item name="item43">String43</item>
+        <item name="item44">String44</item>
+        <item name="item45">String45</item>
+
+    </string-array>
+
+</resources>
